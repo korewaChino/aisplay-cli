@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "aisplay-private-api": "^1.0.6"
+    "aisplay-private-api": "^1.0.6",
+    "axios": "^0.26.1"
   }
 }
